@@ -1,6 +1,7 @@
-package com.github.slwtk.testexportplugin.model
+package ru.kpfu.model
 
 import kotlinx.serialization.Serializable
+import ru.kpfu.model.CustomAttributeModel
 
 /**
  * [isFavorite] Property is used to filter favourite projects

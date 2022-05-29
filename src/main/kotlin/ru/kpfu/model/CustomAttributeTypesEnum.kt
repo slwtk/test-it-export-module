@@ -1,4 +1,4 @@
-package com.github.slwtk.testexportplugin.model
+package ru.kpfu.model
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
